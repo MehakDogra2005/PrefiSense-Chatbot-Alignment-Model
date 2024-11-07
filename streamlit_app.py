@@ -37,7 +37,7 @@ tf.compat.v1.reset_default_graph()
 
 
 # Load the trained model
-model = joblib.load("D:\.ipynb_checkpoints\trained_model_chatbot_v2.pkl")
+model = joblib.load("trained_model_chatbot.pkl")
 
 
 # Preprocessing function
