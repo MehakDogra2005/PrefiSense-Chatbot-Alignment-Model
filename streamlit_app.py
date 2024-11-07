@@ -37,7 +37,7 @@ tf.compat.v1.reset_default_graph()
 
 
 # Load the trained model
-model = joblib.load('trained_model_chatbot.pkl')
+model = joblib.load('https://github.com/MehakDogra2005/-PrefiSense---Chatbot-Alignment-Model-Deployment/blob/728580a1d83f9c7479019acf537a32d56582cec6/trained_model_chatbot.pkl')
 
 
 # Preprocessing function
